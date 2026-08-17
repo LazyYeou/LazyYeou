@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning: React, Unity/C#, Python<br>💡 Interests: game development, web development, and AI<br>📫 Reach me at: lazyyeou@gmail.com
+🌱 Currently learning: Embedded System and Data Science<br>💡 Interests: Embedded System, web development, and AI<br>📫 Reach me at: lazyyeou@gmail.com
 
 
 ## 🌐 Socials:
