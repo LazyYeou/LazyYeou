@@ -15,19 +15,41 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate overview card
-        uses: h1s97x/gh-readme-card@main
+      - name: Checkout stats generator
+        uses: actions/checkout@v4
         with:
-          card: user
-          params: 'username=LazyYeou&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=380'
-          path: profile/stats.svg
+          repository: h1s97x/gh-readme-card
+          path: .stats-generator
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: .stats-generator/package-lock.json
+
+      - name: Install generator dependencies
+        working-directory: .stats-generator
+        run: npm ci --ignore-scripts
+
+      - name: Generate overview card
+        working-directory: .stats-generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_CARD_CARD: user
+          GH_CARD_PARAMS: 'username=LazyYeou&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=380'
+          GH_CARD_PATH: ${{ github.workspace }}/profile/stats.svg
+        run: node src/cli.ts
 
       - name: Generate languages card
-        uses: h1s97x/gh-readme-card@main
-        with:
-          card: langs
-          params: 'username=LazyYeou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320'
-          path: profile/languages.svg
+        working-directory: .stats-generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_CARD_CARD: langs
+          GH_CARD_PARAMS: 'username=LazyYeou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320'
+          GH_CARD_PATH: ${{ github.workspace }}/profile/languages.svg
+        run: node src/cli.ts
 
       - name: Commit updated cards
         run: |
