@@ -53,7 +53,7 @@ I'm a Computer Science student exploring how **AI, robotics, and embedded system
 
 <div align="center">
 
-<!-- Generated daily by .github/workflows/update-stats.yml; run the workflow once after installation. -->
+<!-- Generated daily by .github/workflows/update-stats.yml. Set the PROFILE_STATS_TOKEN Actions secret to a personal access token for public repository statistics, then start a new workflow run on main. -->
 <a href="https://github.com/LazyYeou">
   <img src="./profile/stats.svg" height="180" alt="GitHub contribution statistics" />
 </a>

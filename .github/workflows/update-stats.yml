@@ -36,7 +36,7 @@ jobs:
       - name: Generate overview card
         working-directory: .stats-generator
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.PROFILE_STATS_TOKEN }}
           GH_CARD_CARD: user
           GH_CARD_PARAMS: 'username=LazyYeou&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=380'
           GH_CARD_PATH: ${{ github.workspace }}/profile/stats.svg
@@ -45,7 +45,7 @@ jobs:
       - name: Generate languages card
         working-directory: .stats-generator
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.PROFILE_STATS_TOKEN }}
           GH_CARD_CARD: langs
           GH_CARD_PARAMS: 'username=LazyYeou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320'
           GH_CARD_PATH: ${{ github.workspace }}/profile/languages.svg
