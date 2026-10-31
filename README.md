@@ -61,8 +61,6 @@ I'm a Computer Science student exploring how **AI, robotics, and embedded system
   <img src="./profile/languages.svg" height="180" alt="Most-used repository languages" />
 </a>
 
-<sub>Statistics are generated daily with GitHub Actions and hosted in this repository.</sub>
-
 </div>
 
 ### What I'm Exploring
