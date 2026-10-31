@@ -1,81 +1,84 @@
 <div align="center">
 
-# Hi, I'm LazyYeou 👋
+# Hi, I'm LazyYeou.
 
-### Computer Science Student · Embedded Systems · AI & Data Science
+**Computer Science Student · Embedded Systems · AI / Data Science**
 
-*Building intelligent systems, exploring data, and turning ideas into working software.*
+*Engineering intelligent systems, from hardware to software.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-LazyYeou-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LazyYeou)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lazyyeou@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Connect-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/nunyeouuu)
+[![GitHub](https://img.shields.io/badge/GitHub-LazyYeou-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/LazyYeou)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:lazyyeou@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Connect-0D1117?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/nunyeouuu)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-I'm a Computer Science student interested in the intersection of **intelligent software and real-world systems**. I enjoy working across embedded development, robotics, machine learning, and web technologies.
+I'm a Computer Science student exploring how **AI, robotics, and embedded systems** can solve real-world problems. I enjoy taking ideas from experiments to working applications, whether that means building data-driven models, developing autonomous systems, or shipping software.
 
-- **Currently exploring:** Embedded systems, computer vision, robotics, and data science.
-- **Interested in:** AI/ML engineering, autonomous systems, and full-stack development.
-- **How I work:** Experiment, build, measure, and improve.
-- **Contact:** [lazyyeou@gmail.com](mailto:lazyyeou@gmail.com)
+- **Currently learning:** Embedded systems, robotics, computer vision, and data science.
+- **Focused on:** Machine learning, intelligent systems, and practical software engineering.
+- **Also interested in:** Web development, applied research, and hackathons.
+- **Reach me:** [lazyyeou@gmail.com](mailto:lazyyeou@gmail.com)
 
-## Tech Stack
+### Tools & Technologies
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C%23](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=sharp&logoColor=99CC00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=60A5FA)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=sharp&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38BDF8)
 
-**AI, Data Science & Visualization**
+**AI & Data Science**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=66C7F4)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=python&logoColor=38BDF8)
 
-**Web & Application Development**
+**Web, Applications & Embedded**
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
-![Bun](https://img.shields.io/badge/Bun-0D1117?style=flat-square&logo=bun&logoColor=FBF0DF)
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
+![Bun](https://img.shields.io/badge/Bun-111827?style=flat-square&logo=bun&logoColor=FBF0DF)
+![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-111827?style=flat-square&logo=ros&logoColor=38BDF8)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5CBBFF)
 
-**Embedded & Robotics Interests**
-
-![ROS 2](https://img.shields.io/badge/ROS_2-0D1117?style=flat-square&logo=ros&logoColor=68B7E5)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=C51A4A)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-
-## GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LazyYeou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=39D2C0&rank_icon=github" alt="LazyYeou's GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyYeou&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="LazyYeou's most used public repository languages" height="170" />
+<!-- Generated daily by .github/workflows/update-stats.yml; run the workflow once after installation. -->
+<a href="https://github.com/LazyYeou">
+  <img src="./profile/stats.svg" height="180" alt="GitHub contribution statistics" />
+</a>
+<a href="https://github.com/LazyYeou?tab=repositories">
+  <img src="./profile/languages.svg" height="180" alt="Most-used repository languages" />
+</a>
 
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazyYeou&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=39D2C0&area_color=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="LazyYeou's recent GitHub contribution activity" width="100%" />
-
-### Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazyYeou&theme=github_dark" alt="LazyYeou's GitHub profile summary" width="100%" />
+<sub>Statistics are generated daily with GitHub Actions and hosted in this repository.</sub>
 
 </div>
+
+### What I'm Exploring
+
+| Area | Interests |
+| --- | --- |
+| **Robotics & Embedded** | UAVs, ROS 2, sensor integration, onboard vision |
+| **AI & Data Science** | Machine learning, computer vision, model evaluation, Kaggle |
+| **Software Engineering** | Full-stack applications, APIs, developer workflows |
 
 ---
 
 <div align="center">
 
-*Always learning. Always building.*
+**Build. Experiment. Iterate.**
 
-[![Profile views](https://komarev.com/ghpvc/?username=LazyYeou&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/LazyYeou)
+[GitHub](https://github.com/LazyYeou) · [Email](mailto:lazyyeou@gmail.com) · [Discord](https://discord.gg/nunyeouuu)
 
 </div>
