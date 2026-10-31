@@ -33,6 +33,12 @@ jobs:
         working-directory: .stats-generator
         run: npm ci --ignore-scripts
 
+      - name: Fix upstream languages query
+        working-directory: .stats-generator
+        run: |
+          # shortcut: upstream queries the invalid Repository.size field; remove when upstream fixes it.
+          sed -i '/^              size$/d' src/fetchers/top-languages.ts
+
       - name: Generate overview card
         working-directory: .stats-generator
         env:
