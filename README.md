@@ -13,6 +13,11 @@
 <!-- Animated ASCII terminal (local SVG, animates on GitHub) -->
 <img src="./profile/terminal.svg" width="720" alt="Animated terminal: whoami" />
 
+<br/>
+
+<!-- Animated UAV patrolling along a waypoint path -->
+<img src="./profile/uav.svg" width="720" alt="Animated UAV quadcopter patrolling over waypoints" />
+
 <br/><br/>
 
 <a href="https://github.com/LazyYeou"><img src="https://img.shields.io/badge/GitHub-LazyYeou-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
