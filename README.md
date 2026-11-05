@@ -1,14 +1,24 @@
 <div align="center">
 
-# Hi, I'm LazyYeou.
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2937,100:38BDF8&text=LazyYeou&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Engineering%20intelligent%20systems%2C%20from%20hardware%20to%20software&descSize=17&descAlignY=60&animation=fadeIn" alt="LazyYeou banner" />
 
-**Computer Science Student · Embedded Systems · AI / Data Science**
+<!-- Animated typing subtitle -->
+<a href="https://github.com/LazyYeou">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Computer+Science+Student;Embedded+Systems+%C2%B7+Robotics;AI+%2F+Data+Science+%C2%B7+Computer+Vision;Build.+Experiment.+Iterate." alt="Typing animation" />
+</a>
 
-*Engineering intelligent systems, from hardware to software.*
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-LazyYeou-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/LazyYeou)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:lazyyeou@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Connect-0D1117?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/nunyeouuu)
+<!-- Animated ASCII terminal (local SVG, animates on GitHub) -->
+<img src="./profile/terminal.svg" width="720" alt="Animated terminal: whoami" />
+
+<br/><br/>
+
+<a href="https://github.com/LazyYeou"><img src="https://img.shields.io/badge/GitHub-LazyYeou-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:lazyyeou@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://discord.gg/nunyeouuu"><img src="https://img.shields.io/badge/Discord-Connect-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+<img src="https://komarev.com/ghpvc/?username=LazyYeou&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile views" />
 
 </div>
 
@@ -25,29 +35,31 @@ I'm a Computer Science student exploring how **AI, robotics, and embedded system
 
 ### Tools & Technologies
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15)
-![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=60A5FA)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=sharp&logoColor=A78BFA)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38BDF8)
+<!-- Hover over the icons on skillicons.dev for names; grouped by domain -->
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts&theme=dark" alt="Languages" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI & Data Science</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,opencv&theme=dark" alt="AI and Data Science" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web, Apps & Embedded</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,bun,unity,ros,arduino&theme=dark" alt="Web, Apps and Embedded" /></a>
+    </td>
+  </tr>
+</table>
 
-**AI & Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=python&logoColor=38BDF8)
-
-**Web, Applications & Embedded**
-
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
-![Bun](https://img.shields.io/badge/Bun-111827?style=flat-square&logo=bun&logoColor=FBF0DF)
-![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-111827?style=flat-square&logo=ros&logoColor=38BDF8)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5CBBFF)
+</div>
 
 ### GitHub Analytics
 
@@ -60,6 +72,11 @@ I'm a Computer Science student exploring how **AI, robotics, and embedded system
 <a href="https://github.com/LazyYeou?tab=repositories">
   <img src="./profile/languages.svg" height="180" alt="Most-used repository languages" />
 </a>
+
+<br/><br/>
+
+<!-- Animated contribution activity graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LazyYeou&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&radius=8" alt="Contribution activity graph" />
 
 </div>
 
@@ -75,8 +92,14 @@ I'm a Computer Science student exploring how **AI, robotics, and embedded system
 
 <div align="center">
 
-**Build. Experiment. Iterate.**
+<a href="https://github.com/LazyYeou">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1200&color=94A3B8&center=true&vCenter=true&width=420&height=30&lines=Build.+Experiment.+Iterate.;Thanks+for+stopping+by." alt="Footer typing animation" />
+</a>
 
-[GitHub](https://github.com/LazyYeou) · [Email](mailto:lazyyeou@gmail.com) · [Discord](https://discord.gg/nunyeouuu)
+<a href="https://github.com/LazyYeou"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:lazyyeou@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://discord.gg/nunyeouuu"><img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38BDF8,50:1F2937,100:0D1117&section=footer" alt="Footer wave" />
 
 </div>
