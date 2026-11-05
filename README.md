@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2937,100:38BDF8&text=LazyYeou&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Engineering%20intelligent%20systems%2C%20from%20hardware%20to%20software&descSize=17&descAlignY=60&animation=fadeIn" alt="LazyYeou banner" />
 
 <!-- Animated typing subtitle -->
 <a href="https://github.com/LazyYeou">
@@ -12,11 +10,6 @@
 
 <!-- Animated ASCII terminal (local SVG, animates on GitHub) -->
 <img src="./profile/terminal.svg" width="720" alt="Animated terminal: whoami" />
-
-<br/>
-
-<!-- Animated UAV patrolling along a waypoint path -->
-<img src="./profile/uav.svg" width="720" alt="Animated UAV quadcopter patrolling over waypoints" />
 
 <br/><br/>
 
