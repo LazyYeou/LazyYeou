@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="250" viewBox="0 0 720 250" role="img" aria-label="Animated terminal showing whoami for LazyYeou">
+  <style>
+    .t { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 14px; }
+    .prompt { fill: #38BDF8; }
+    .cmd { fill: #E5E7EB; }
+    .out { fill: #94A3B8; }
+    .key { fill: #A78BFA; }
+    .ok { fill: #4ADE80; }
+  </style>
+
+  <!-- Window -->
+  <rect x="1" y="1" width="718" height="248" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="1" width="718" height="34" rx="12" fill="#161B22"/>
+  <rect x="1" y="22" width="718" height="13" fill="#161B22"/>
+  <circle cx="22" cy="18" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="62" cy="18" r="6" fill="#27C93F"/>
+  <text x="360" y="23" text-anchor="middle" class="t out" font-size="12">lazyyeou@dev: ~</text>
+
+  <!-- Each line fades in in sequence, holds, then the loop restarts (14s) -->
+  <g class="t">
+    <text x="24" y="66" opacity="0">
+      <tspan class="prompt">❯</tspan><tspan class="cmd"> whoami</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.02;0.04;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="90" opacity="0" class="ok">
+      LazyYeou — CS student · embedded · AI/DS
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.10;0.12;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="120" opacity="0">
+      <tspan class="prompt">❯</tspan><tspan class="cmd"> cat stack.json</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.26;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="144" opacity="0">
+      <tspan class="out">{ </tspan><tspan class="key">"ai"</tspan><tspan class="out">: ["PyTorch","TensorFlow","OpenCV"],</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.36;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="164" opacity="0">
+      <tspan class="out">  </tspan><tspan class="key">"embedded"</tspan><tspan class="out">: ["C++","ROS 2","UAV"],</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.44;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="184" opacity="0">
+      <tspan class="out">  </tspan><tspan class="key">"web"</tspan><tspan class="out">: ["React","Vite","Bun","TypeScript"] }</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.52;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="216" opacity="0">
+      <tspan class="prompt">❯</tspan><tspan class="cmd"> ./build --experiment --iterate</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.62;0.64;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="238" opacity="0" class="ok">
+      [██████████] 100%  build succeeded
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.74;0.76;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect x="344" y="226" width="8" height="14" fill="#38BDF8" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
