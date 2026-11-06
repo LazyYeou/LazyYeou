@@ -46,7 +46,7 @@ I'm a Computer Science student exploring how **AI, robotics, and embedded system
   <tr>
     <td align="center"><b>AI & Data Science</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,opencv&theme=dark" alt="AI and Data Science" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and Data Science" /></a>
     </td>
   </tr>
   <tr>
